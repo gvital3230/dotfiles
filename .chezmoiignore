@@ -1,0 +1,5 @@
+.config/lvim/.git
+.config/lvim/.git/*
+.config/lvim/.git/*/**
+
+
