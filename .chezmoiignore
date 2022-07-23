@@ -1,7 +1,14 @@
+# lvim
 .config/lvim/.git
 .config/lvim/.git/*
 .config/lvim/.git/*/**
 
 .config/lvim/plugin/packer_compiled.lua
 
+#nvim
+.config/nvim/.git
+.config/nvim/.git/*
+.config/nvim/.git/*/**
+
+.config/nvim/plugin/packer_compiled.lua
 
