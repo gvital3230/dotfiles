@@ -2,4 +2,6 @@
 .config/lvim/.git/*
 .config/lvim/.git/*/**
 
+.config/lvim/plugin/packer_compiled.lua
+
 
